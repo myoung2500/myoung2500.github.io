@@ -12,4 +12,5 @@ I am a data-focused student interested in analytics and business intelligence.
 
 ## Contact
 LinkedIn: [myoung2500](https://www.linkedin.com/in/myoung2500/)
+
 Email: myoung2500@gmail.com
